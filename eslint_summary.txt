@@ -1,0 +1,86 @@
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\layout\AppSidebar.tsx ---
+Line 35: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\students\StudentProfileModal.tsx ---
+Line 79: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+Line 95: [Warning] React Hook useEffect has a missing dependency: 'student'. Either include it or remove the dependency array. (react-hooks/exhaustive-deps)
+Line 449: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+Line 451: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\badge.tsx ---
+Line 36: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\button.tsx ---
+Line 56: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\command.tsx ---
+Line 24: [Error] An interface declaring no members is equivalent to its supertype. (@typescript-eslint/no-empty-object-type)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\form.tsx ---
+Line 169: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\navigation-menu.tsx ---
+Line 119: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\sidebar.tsx ---
+Line 768: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\textarea.tsx ---
+Line 5: [Error] An interface declaring no members is equivalent to its supertype. (@typescript-eslint/no-empty-object-type)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui-1\toggle.tsx ---
+Line 43: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\badge.tsx ---
+Line 29: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\button.tsx ---
+Line 47: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\command.tsx ---
+Line 24: [Error] An interface declaring no members is equivalent to its supertype. (@typescript-eslint/no-empty-object-type)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\form.tsx ---
+Line 129: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\navigation-menu.tsx ---
+Line 111: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\sidebar.tsx ---
+Line 636: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\sonner.tsx ---
+Line 27: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\textarea.tsx ---
+Line 5: [Error] An interface declaring no members is equivalent to its supertype. (@typescript-eslint/no-empty-object-type)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\components\ui\toggle.tsx ---
+Line 37: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\hooks\useAuth.tsx ---
+Line 63: [Warning] Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components. (react-refresh/only-export-components)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\lib\validation.ts ---
+Line 77: [Error] Unnecessary escape character: \/. (no-useless-escape)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\pages\Dashboard.tsx ---
+Line 50: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\pages\FeesDue.tsx ---
+Line 102: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\pages\Registration.tsx ---
+Line 140: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\src\pages\StudentProfile.tsx ---
+Line 402: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+Line 433: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+Line 452: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+Line 462: [Error] 'finalUpdateData' is never reassigned. Use 'const' instead. (prefer-const)
+Line 475: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+Line 488: [Error] Unexpected any. Specify a different type. (@typescript-eslint/no-explicit-any)
+
+--- C:\Users\MSI\Documents\minor_projecg_repo\mbm\tailwind.config.ts ---
+Line 110: [Error] A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
